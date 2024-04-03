@@ -1,5 +1,3 @@
-# NymbleAssignment
-
 # Software Design Task (JAVA)
 
 # Task
